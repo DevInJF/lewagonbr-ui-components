@@ -1,0 +1,14 @@
+.badge-container {
+  display: inline-block;
+  position: relative;
+}
+
+.badge-container .badge {
+  background-color: red;
+  color: white;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  padding: 4px;
+  border-radius: 25px;
+}
